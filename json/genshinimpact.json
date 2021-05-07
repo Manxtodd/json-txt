@@ -1,0 +1,787 @@
+{
+    "mondstadt":[
+        {
+            "title":"Jean",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031619494241375.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20200616/2020061611214389168.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20200616/2020061611215344626.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100911195126176.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100911203322835.png",
+            "intro":"As the Acting Grand Master of the Knights, Jean has always been devoted to her duties and maintaining peace in Mondstadt.\nShe had taken precautions long before the onset of Stormterror's assault, and she will guard Mondstadt with her life as always.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100911235243501.png",
+            "cv":[
+                {
+                    "name":"SAITO Chiwa",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/08/28/d755b67bac85c1f72dca98c30c08972e_4988360399647226190.mp3",
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100911242264996.mp3",
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100911242777872.mp3"
+                    ]
+                },
+                {
+                    "name":"Stephanie Southerland",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/3bb4bef3d0bdcaa3efe93eb2e1651473_5237206756779841256.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/72334dc2613b8c26d2fcc16635b84df5_353397117603805317.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/72334dc2613b8c26d2fcc16635b84df5_4293835481103893355.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Amber",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200310/2020031016592515874.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100914372396510.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100914390892929.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100914373368160.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100914374175697.png",
+            "intro":"A perky, straightforward girl, who is also the only Outrider of the Knights of Favonius.\nHer amazing mastery of the glider has made her a three-time winner of the Gliding Champion in Mondstadt.\nAs a rising star within the Knights of Favonius, Amber is always ready for any challenging tasks.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100914385113765.png",
+            "cv":[
+                {
+                    "name":"IWAMI Manaka",
+                    "audio":[
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100914385463548.mp3",
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100914385828382.mp3",
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100914390290575.mp3"
+                    ]
+                },
+                {
+                    "name":"Kelly Baskin",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/b7cf28fb58db2bbd5df3d83cb412256f_1547096045779144934.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/de7ca956c37351bfc17264b731e99c2d_5787748050354943598.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/9e2d666acb90f9e890002863adcc9fbc_4790040298719184249.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Lisa",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031619510379464.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100915122465321.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100915140016827.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100915123335708.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100915123830794.png",
+            "intro":"She is an intellectual witch who can never get enough naps. As the Librarian of the Knights of Favonius, Lisa is smart in that she always knows exactly what to do with whatever troubles her.\nAs much as she loves her sleep, she still manages to keep everything under control in a calm, composed manner.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100915134016041.png",
+            "cv":[
+                {
+                    "name":"TANAKA Rie",
+                    "audio":[
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100915134493475.mp3",
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100915135292838.mp3"
+                    ]
+                },
+                {
+                    "name":"Mara Junot",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/5e425b65b1ca42249ebe98cd775545ad_6392069785820338972.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/89135b51b3704e7d55ce56837d5dd7ac_1868276386196114806.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/c3c7e5e62e0373a8b8a9171e4ca08d1b_4967032337214583621.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Kaeya",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031619490965086.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100910335338023.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100910351589464.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20200628/2020062819163992673.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100910341145525.png",
+            "intro":"In the Knights of Favonius, Kaeya is the most trusted aide for the Acting Grand Master Jean. You can always count on him to solve any intractable problems.\nEveryone in Mondstadt loves Kaeya, but no one knows what secrets this witty, charming knight has...",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100910345685577.png",
+            "cv":[
+                {
+                    "name":"TORIUMI Kohsuke",
+                    "audio":[
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100910350020037.mp3",
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100910350335397.mp3",
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100910350781876.mp3"
+                    ]
+                },
+                {
+                    "name":"Josey Montana McCoy",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/d3305cf22dcc273aba459d6242a97ebc_1902322259614591282.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/7cd3029944aba9c88959b875523b5844_3965029182632092044.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/99e1a16cb5fd149fe4fbba98bebbb2c2_5565615864370364924.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Barbara",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031619500256389.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20200609/2020060915101631868.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20200609/2020060915102571828.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100912320729515.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100912281839220.png",
+            "intro":"The Deaconess of the Favonius Church and a shining starlet adored by all.\nAlthough the concept of a starlet is rather novel in a city of bards, the people of Mondstadt love Barbara nonetheless.\n'I owe everything to the city's spirit of freedom.' — Barbara, regarding her popularity.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20191018/2019101810223895923.png",
+            "cv":[
+                {
+                    "name":"KITO Akari",
+                    "audio":[
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100912322634962.mp3",
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100912322992097.mp3",
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100912323736220.mp3"
+                    ]
+                },
+                {
+                    "name":"Laura Stahl",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/7c0698862895b90777996c71732bcb48_285536875423561976.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/240e05e23b350afe199ccbea39c6b057_2636112535720264076.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/e617563c2e324feb7dadd82cc851fab0_7026079818429071719.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Diluc",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031619504030315.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20200609/2020060915105884221.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20200609/2020060915105012670.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100915054350804.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100915042958111.png",
+            "intro":"As the wealthiest gentleman in Mondstadt, the ever-dapper Diluc always presents himself as the epitome of perfection.\nBut behind the courteous visage burns a zealous soul that has sworn to protect Mondstadt at all costs, allowing him to mercilessly vanquish all who threaten his city.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100915055085145.png",
+            "cv":[
+                {
+                    "name":"ONO Kenshou",
+                    "audio":[
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100915051414419.mp3",
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100915051749738.mp3",
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100915052033971.mp3"
+                    ]
+                },
+                {
+                    "name":"Sean Chiplock",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/82dbdfb35fed134c769d3d5849c7c2fe_1387321368603162686.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/0b3f5c459ba2f47c1929edc03ae8cf62_6028434000858522873.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/86fb8a4fc1b55c1be8c7111facdbd541_5597741833313735845.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Razor",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031619513419872.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20191028/2019102814495922891.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20191018/2019101811585976188.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20191018/2019101811551092426.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20191018/2019101811551487343.png",
+            "intro":"Some say he is an orphan raised by wolves. Others say he is a wolf spirit in human form.\nHe is most at home in the wild, fighting with claw and thunder.\nTo this day the wolf boy can be found prowling the forest, where he and his wolf pack hunt to survive using nothing more than their animal instincts.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20191021/2019102114383896828.png",
+            "cv":[
+                {
+                    "name":"UCHIYAMA Kouki",
+                    "audio":[
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191018/2019101811584680597.wav",
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191018/2019101811585099129.wav",
+                        "https://uploadstatic-sea.mihoyo.com/contentweb/20191018/2019101811585468690.wav"
+                    ]
+                },
+                {
+                    "name":"Todd Haberkorn",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/97d03b6c0b949aaa1026615bd5d8c13a_2316274679243243080.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/927f196da9ac7c1137df5a80efed88aa_2554453874763530717.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/5a6e8446fb0c31c1821a4e10c153d245_4901159516317461433.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Venti",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031619520566339.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20191122/2019112210305833310.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20191122/2019112211143037621.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20191122/2019112210310529723.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20191122/2019112210311020480.png",
+            "intro":"A bard that seems to have arrived on some unknown wind — sometimes sing songs as old as the hills, and other times sing poems fresh and new.\nLikes apples and lively places, but is not a fan of cheese or anything sticky.\nWhen using his Anemo power to control the wind, it often appears as feathers, as he's fond of that which appears light and breezy.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20191122/2019112210524938990.png",
+            "cv":[
+                {
+                    "name":"MURASE Ayumu",
+                    "audio":[
+                        "https://webstatic.mihayo.com/upload/op-public/2019/11/22/664f288815a1c683c30da078534b5cac_4353095660913502837.mp3",
+                        "https://webstatic.mihayo.com/upload/op-public/2019/11/22/33ffdf96a8a953d67feda2e4f0fa932a_8708415598854493195.mp3",
+                        "https://webstatic.mihayo.com/upload/op-public/2019/11/22/15e945937b3fc78a9cc369906b152052_4186409199701205954.mp3"
+                    ]
+                },
+                {
+                    "name":"Erika Harlacher",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/75aca50c1cdce854f35b98ff02594ad8_4612379095966483278.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/4fe1884d7d4d076227bd68b3103de58c_1555442766601282376.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/6615b14b14500072177baf9c93259fd2_238996189421095738.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Klee",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031619524764235.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20200103/2020010310582722822.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20200103/2020010311014850622.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20200103/2020010310583490686.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20200103/2020010310583830901.png",
+            "intro":"Knights of Favonius Spark Knight! Forever with a bang and a flash!\n—And then disappearing from the stern gaze of Acting Grand Master Jean.\nSure, time in solitary confinement gives lots of time to think about new gunpowder formulas...\nBut it'd still be better to not be in solitary in the first place.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20200119/2020011915514375019.png",
+            "cv":[
+                {
+                    "name":"KUNO Misaki",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/03/5c23edd1addc595091696af98f1fa9b5_1883663104510035371.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/03/c67adfbeb0f367da7a5471b293205e81_9088954267666750333.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/03/f27db40f62ac3cccfa43db03b032aa0f_7758586381288643529.mp3"
+                    ]
+                },
+                {
+                    "name":"Poonam Basu",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/56f47c1911763bf96ba3d1a07bf932f0_7933632629289849334.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/0d810389d42af7ff13bf5593c0dfa1a8_4804934671857793822.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/c93fe81f521ae534a334697e5229fad3_5534458050084686574.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Bennett",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200312/2020031220001073799.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20200312/2020031220001589124.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20200312/2020031220015487912.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20200312/2020031220003255278.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20200312/2020031220003686233.png",
+            "intro":"The few young adventurers that the Mondstadt Adventurers' Guild has always find themselves tangled up in baffling bouts of bad luck.\nHe is the only active member of his own adventure group, known as 'Benny's Adventure Team,' after all the other members decided to 'take leave' following a series of unfortunate incidents. As a result, the team is currently on the verge of being dissolved.\nBeing unable to break the poor boy's heart, Katheryne of the Adventurers' Guild has kept 'Benny's Adventure Team' on the books, whilst also hiding from him the fact that all the other members have long since officially left the team.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20200410/2020041015055640469.png",
+            "cv":[
+                {
+                    "name":"OUSAKA Ryouta",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/03/a12cbe45f81125f7dbf470f9bbe88abf_3205049333274535623.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/03/3affba419c0a6a8989b3a375d09dd495_3254338570516146415.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/03/0c7629b548a3cecd3b0040052a8357bb_3618227308299843306.mp3"
+                    ]
+                },
+                {
+                    "name":"Cristina Vee Valenzuela",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/9dc7a3fc1fc0956d59dadf9d73f30286_2712423105809582275.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/170a9c39b14835a481daa3d05aefd4ea_5543944827148848075.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/270d703db26ccee13527b6b4dbbc1c29_6519762676240636815.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Noelle",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200315/2020031517331182257.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20200315/2020031517331523512.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20200325/2020032510564718459.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20200315/2020031517332265399.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20200315/2020031517332799496.png",
+            "intro":"Like most of Mondstadt's young people, Noelle always dreamed of being a knight of Favonius when she grew up.\nShe may not have what it takes to be a knight just yet, but she is learning. Working as a maid at the Knights' headquarters, she is constantly taking notes on what constitutes knightly speech, knightly conduct, and knightly customs.\nShe holds firm to her belief that one day she will join their ranks — she just needs to keep trying her hardest at everything she does.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20200315/2020031517343271490.png",
+            "cv":[
+                {
+                    "name":"TAKAO Kanon",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/11/eeb8ed57db8e559959926c6fda18f9f7_939507911085059751.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/11/1c807b063ecfd74d419266e1c0612966_3247536765705182387.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/11/45cca7124c450ee5dd8b8effc3a95ed4_8581995163897800283.mp3"
+                    ]
+                },
+                {
+                    "name":"Laura Faye Smith",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/71091853292cedf9a84f6e19ca569b6f_8455729021654927099.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/edc259fcd9ac0eec02449b177f0efa83_5539408989299830482.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/16ee68772d70b629a08e849cb6cd02d9_5191329139810459169.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Fischl",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200330/2020033022164911534.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20200402/2020040211240853891.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20200402/2020040211242065763.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20200330/2020033022170449459.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20200330/2020033022174332519.png",
+            "intro":"A mysterious girl who calls herself 'Prinzessin der Verurteilung' and travels with a night raven named Oz.\nCurrently serves as an investigator in the Adventurers' Guild.\nThrough her unique abilities, eccentric character, and (while she would never admit it herself) hard work, Fischl has become a rising star among the Adventurers' Guild's investigators, earning the recognition of all.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20200330/2020033022183288824.png",
+            "cv":[
+                {
+                    "name":"UCHIDA Maaya",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/11/2c536bd063a9f14c752c211704bfe6ae_6990353860087345405.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/11/c6faf2cc5dac742be4a5146e7fa78703_6846838990012192329.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/11/cad11986cece2c3f814c41a5cf50618c_6208800214231221441.mp3"
+                    ]
+                },
+                {
+                    "name":"Brittany Cox",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/8853c35c52f96aaee7f3a175df6f9379_5457529225428974782.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/a6592dcfae43a46501e618e5cd6a9d0c_1755958503787880852.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/dc9cb4ddbd80f0db9ea5901c844ae3fd_6063656596333674198.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Sucrose",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200723/2020072319114696003.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20200723/2020072319115159476.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20200723/2020072319142329434.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20200723/2020072319123323514.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20200723/2020072319133258916.png",
+            "intro":"An alchemist with an insatiable curiosity towards the world and everything in it. Attached to the Knights of Favonius as an assistant to Albedo, her area of focus is 'bio-alchemy.'\nShe strives to enrich the world by transforming living things with the power of alchemy.\nGranted, the products of her research sometimes prove to be more weird than wonderful — but on the whole, she has made monumental contributions to the field of bio-alchemy.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20200723/2020072319141035344.png",
+            "cv":[
+                {
+                    "name":"FUJITA Akane",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/08/28/52de5562b5cb8fa8a7fd4efb499685dd_3497184957323650196.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/08/28/204135939f3da07eaaa8920a926185c9_8280034724869550420.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/08/28/16ee5e1a77d548b6821b3efb84771173_1602829636561602449.mp3"
+                    ]
+                },
+                {
+                    "name":"Valeria Rodriguez",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/7bf59f717f7b865848d5b6ae6e4a97d6_3911022263417529611.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/cdb75bbdbdae50d5bd8a0a1d1e4f3d20_4618276793381748375.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/640166ace0159569f60403431a518503_2499730911193000247.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Mona",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817270441202.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817270842074.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817353421694.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817271449432.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817271862923.png",
+            "intro":"A mysterious young astrologer who proclaims herself to be 'Astrologist Mona Megistus,' and who possesses abilities to match the title. Erudite, but prideful.\nThough she is often strapped for cash and lives a life of thrift, she is resolved to never use astrology for profit... It is this very resolution that has caused her to constantly fret about money.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817275948595.png",
+            "cv":[
+                {
+                    "name":"KOHARA Konomi",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/08/28/d79172f76f1db358636bcdf171336b8c_2041972378963683842.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/08/28/d7b0f209a4c90d3daf7afb775e8a999c_5090850633344786583.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/08/28/19fb6195c9262488e2402b2cba76f489_7799851208791948915.mp3"
+                    ]
+                },
+                {
+                    "name":"Felecia Angelle",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/e7a5dca11b7ff896937774a52589b298_7827868508191529246.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/1e4dbab069938d0f67b34da378b5c1f6_4034763363484667121.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/e626df5fc67a362dcdc24b0052f084cf_4898528050969675382.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Diona",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20201106/2020110618564834380.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20201106/2020110618565219627.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20201106/2020110618595613115.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20201106/2020110618570052630.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20201106/2020110618570632135.png",
+            "intro":"The incredibly popular bartender of the Cat's Tail tavern, rising star of Mondstadt's wine industry, and the greatest challenger to its traditional powerhouses.\nA feisty feline young lady from Springvale, any drink mixed by Diona's hand tastes delicious beyond belief.\nYet given her extreme distaste for alcohol, is her talent a blessing or a curse?",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20201107/2020110717262091129.png",
+            "cv":[
+                {
+                    "name":"IZAWA Shiori",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/06/756621f17feb4bbe4eb5719f13d5c159_3371204395463020442.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/06/8d9340402cb27cffbc731bb11e955e4b_8491293895156999051.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/06/980aec92bcd84cdf9baeacd72d133dd8_3341179791530826729.mp3"
+                    ]
+                },
+                {
+                    "name":"Dina Sherman",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/12/496742e0f95abdc67cba218c7376efa6_3650223628671027446.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/12/4a7cc403fe6782852a1d362add236d5f_6987580045750921228.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/12/c6ff7fb290dedb51156c6ee717fa2009_116766090742950369.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Albedo",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20201216/2020121611141454228.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20201216/2020121611204969580.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20201216/2020121611271023422.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20201216/2020121611205613117.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20201216/2020121611210150023.png",
+            "intro":"Albedo — an alchemist based in Mondstadt, in the service of the Knights of Favonius.\n'Genius,' 'Kreideprinz,' or 'Captain of the Investigation Team'... Such titles and honors are of no consequence to him when there is so much more research to conduct.\nThe pursuit of fortune and connections cannot hold a candle to his heart's desire — acquiring the limitless, obscure knowledge left behind by previous generations of scholars.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20201216/2020121611222615288.png",
+            "cv":[
+                {
+                    "name":"NOJIMA Kenji",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/12/16/ccf7f7adf04d69fbe51eb88ecf4438a4_364070857621090471.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/12/16/256eb47a496aab0df954328069d0e089_2970590682065663857.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/12/16/5006edd84818c10243d07790f1b6a1c5_1806371093577397882.mp3"
+                    ]
+                },
+                {
+                    "name":"Khoi Dao",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/12/16/44a18bf3ff605435918584fe9cef8f78_3975713027491347896.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/12/16/382db71e7ec0662475794f77213b301e_6462524649502836181.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/12/16/1e8ed2ec2ec2a287367587d645831316_7708611545119807299.mp3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "liyue":[
+        {
+            "title":"Xiao",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031619530797687.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20210122/2021012215393946486.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20210122/2021012210173258296.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20200220/2020022013250124374.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20200220/2020022013251180816.png",
+            "intro":"One of the mighty and illuminated adepti guarding Liyue, also heralded as the 'Vigilant Yaksha.'\nDespite his youthful appearance, tales of his exploits have been documented for millennia.\nHe is especially fond of Wangshu Inn's Almond Tofu.\nThis is because it tastes just like the sweet dreams he used to devour.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20210122/2021012215210254245.png",
+            "cv":[
+                {
+                    "name":"MATSUOKA Yoshitsugu",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/02/20/402c89fffc5886be0ecf3e5200b3f999_1094831223737937120.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/02/20/9eacc534d687e3f7f26a470b5145783f_4280275179292050958.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/02/20/b2ecb0debf8954bb35925e6bacc06e6c_8370732823210732047.mp3"
+                    ]
+                },
+                {
+                    "name":"c",
+                    "audio":[
+                        
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Beidou",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031619533898562.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20200227/2020022720085973518.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20200227/2020022720104965706.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20200227/2020022720091188167.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20200227/2020022720091595696.png",
+            "intro":"Captain of the Crux, with quite the reputation in Liyue.\nThere are those who say she can split mountains and part the sea. Others say she draws lightning through her sword. Some say that even the mightiest of sea beasts are no match for her.\nFor those not from Liyue, it may sound like a hearty joke, but those that have sailed with her will say—\n'No matter what sea beasts there may be, Beidou will be sure to split them all in two.'",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20200227/2020022720103168966.png",
+            "cv":[
+                {
+                    "name":"KOSHIMIZU Ami",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/02/27/8147fa13c0dcfb6e402967c55c2b9ecc_7343111540189611178.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/02/27/59635d21d46f8e3f298683ed6ee49e46_299563627238903923.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/02/27/8d94fe27eca0b6c90b3a807f2b9749fd_2972036864168690743.mp3"
+                    ]
+                },
+                {
+                    "name":"Allegra Clark",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/8b22bbfec430e25e0e5997d55c0800a3_2310829141661398538.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/4d4fa2a753d72491477ad9884ee58235_8027047813539817332.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/5fa569cb893c9b24e07e10d5ef5a86fa_8041317214129857364.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Ningguang",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031619540911246.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20200305/2020030519413867244.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20200305/2020030519431658285.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20200628/2020062819094465643.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20200305/2020030519415152701.png",
+            "intro":"Owner of the Jade Chamber in the skies above Liyue, there are stories abound about Ningguang, with her elegance and mysterious smile.\nAs the Tianquan of the Liyue Qixing, not only does she embody law and order, she also represents fortune and wit.\n&nbsp;",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20200305/2020030519425848932.png",
+            "cv":[
+                {
+                    "name":"OHARA Sayaka",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/03/05/17f08f78af0f2ea2684de750ad6cba0b_5678544076476104598.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/03/05/f682bb8dc51a736614ac56d5d33ecf5e_7290794391301487233.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/03/05/9d01d8dad6f6b0780dc3f7bc6403b38d_5256296082980606562.mp3"
+                    ]
+                },
+                {
+                    "name":"Erin Ebers",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/f71ec764b5cd73b625f373511e59458b_3370073158714446149.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/6d711f52e91197d08ca449f8964fac1d_3344282803486434620.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/ca6c814eaf1b22c4b1f2a605791f8308_516812603245689388.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Xiangling",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031618223919497.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031618224235129.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20200325/2020032510443747968.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031618224863926.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031618225231282.png",
+            "intro":"The Head Chef at the Wanmin Restaurant and also a waitress there, Xiangling is extremely passionate about cooking and excels at her signature hot and spicy dishes.\nThough still young, Xiangling is a true master of the culinary arts with all the skills of a kitchen veteran. She enjoys a good reputation among the hearty eaters at Chihu Rock.\nThere's absolutely no need to be nervous if she wants you to sample her latest creation. It will not disappoint. Promise.\n&nbsp;",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031618535040921.png",
+            "cv":[
+                {
+                    "name":"OZAWA Ari",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/03/17/394996dd7a5dc2dff4e1db07515da098_7982328413479946925.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/03/16/279e6904dab29ea94f39f6372e7f7f1c_5774538956201815787.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/03/16/78b9cfede90e890cac3bb5a06fcb1f1f_2523667853670744704.mp3"
+                    ]
+                },
+                {
+                    "name":"Jackie Lastra",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/558b9859c213af4c5a0cd1aeae85aa44_1561106389482083767.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/407e8e087ad4aa377b14ff73fed972ec_1100841645716768427.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/ca774220770a4bc72545abc1fd5c25fd_1247475490500857738.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Xingqiu",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200324/2020032418063127277.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20200324/2020032418063418099.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20200324/2020032418111666598.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20200324/2020032418064138069.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20200324/2020032418103378010.png",
+            "intro":"Second son of the Feiyun Commerce Guild, Xingqiu has had a reputation for being studious and polite ever since he was a young child.\nBut there is another side to the mild-mannered Xingqiu everyone knows. A daring, adventurous and much more mischievous side...",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20200324/2020032418110963513.png",
+            "cv":[
+                {
+                    "name":"MINAGAWA Junko",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/11/60b6242087e561f887131b6f31bc53b7_172145867243005676.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/11/02155f06d3a897d34a21d69981932a92_3035796347920444613.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/11/da1531253e9ee1bcada491fc01b46132_8403182979318698449.mp3"
+                    ]
+                },
+                {
+                    "name":"Cristina Vee Valenzuela",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/9e87b4e3f46f4b480d0f1a3a5f18d74f_3877901920646688570.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/d63f866e1062dcd38bd4f15063f2b00c_4731815601974236163.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/7a105e1ad8d520a1cdbe7631683d8b26_8170653898370816086.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Chongyun",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200602/2020060220171563309.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20200602/2020060220172055224.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20200602/2020060220205013044.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20200628/2020062819003359966.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20200602/2020060220193086415.png",
+            "intro":"An exorcist who roams the land with Liyue as his base of operations, evil spirits fleeing wherever he goes. As the heir to a clan of exorcists, he has always possessed abilities superior to most. However, these abilities are not the result of training, but of an inborn trait — congenital positivity.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20200602/2020060220202524420.png",
+            "cv":[
+                {
+                    "name":"SAITO Soma",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/02/602d5d7cbc2e93130a18188b4af7a51d_4081218662440864466.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/02/84d5ab74e9f88b8edcc50522b56a8384_2930248038305274043.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/06/02/2628746258a68bc8fb9708eaca513985_2930248038305274043.mp3"
+                    ]
+                },
+                {
+                    "name":"Beau Bridgland",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/31c9484cda6c0d5dfe939e250324637d_5604785682742031111.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/5fb920493690697e894123d80b1ee089_8709943730580687318.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/857569f9bc3a49de985a26c3033f7f35_7757731949202554097.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Qiqi",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817144917562.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817145380161.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817153781489.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817150138368.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817150692521.png",
+            "intro":"An apprentice and herb gatherer at Bubu Pharmacy.\n'Blessed' by the adepti with a body that cannot die, this petite zombie cannot do anything without first giving herself orders to do it.\nQiqi's memory is like a sieve. Out of necessity, she always carries around a notebook in which she writes anything important that she is sure to forget later.\nBut on her worst days, she even forgets to look at her notebook...",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817151630466.png",
+            "cv":[
+                {
+                    "name":"TAMURA Yukari",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/08/28/eb39c364e60e8be7493cd5ebcbd498f1_1690512059894578712.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/08/28/5e323afc36066c02d62670fde44a9d6f_5598901871556365503.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/08/28/b56b6156b5b8431925d12e9ee2336c93_5220540759027062714.mp3"
+                    ]
+                },
+                {
+                    "name":"Christie Cate",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/f623fd7e923898c9571c447c6ecfae8f_5455487971277956233.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/44de2c38a9cdef633bbfe7194c3e81f5_5217965513383084123.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/09/24/1ea653402fc71b97829a3ab3c129a1ea_6375953514384367914.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Keqing",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817192175739.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817192486254.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817205925817.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817193054188.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817193413038.png",
+            "intro":"The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis' unilateral approach to policymaking in Liyue ⁠— but in truth, gods admire skeptics such as her quite a lot.\nShe firmly believes that humanity's future should be determined by humans themselves, and that they can even do better than the archons and adepti have done for them. In order to prove this, she works harder than anyone else.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817204134294.png",
+            "cv":[
+                {
+                    "name":"KITAMURA Eri",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/08/28/079d5b19ed55af90c2af745db8354176_270060025253172630.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/08/28/4b3b4b780edd5c85b6d59ef5be09f5b1_7216019091565260764.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/08/28/e1655f638178aec46c364dad17419f9b_6065315286651231815.mp3"
+                    ]
+                },
+                {
+                    "name":"Kayli Mills",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/10/f21c11d0f7a23447907581989b06e558_7065258135513503547.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/10/bf7a8f29b01d318fb00785424b95b707_8889266802823252701.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/10/3bae9faa029faf3e37e4e95abb92e356_3498574169637214864.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Tartaglia",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20201103/2020110321155815420.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20201103/2020110321160453386.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20201103/2020110321234137061.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20201103/2020110321162167475.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20201103/2020110321163062151.png",
+            "intro":"Meet Tartaglia — the cunning Snezhnayan whose unpredictable personality keeps people guessing his every move.\nDon't be under any illusion as to what he might be thinking or what his intentions are. Just remember this: Behind that innocent, childlike exterior lies a finely honed instrument of war.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20201103/2020110321173763123.png",
+            "cv":[
+                {
+                    "name":"KIMURA Ryohei",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/03/af757bf6a1f86c9727c503325b0c4698_2378720270954342934.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/03/834bcd46dc2ac2d1b042751523b36210_8053512035611502075.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/03/52b5664c615aa50db27eab8cfd9a064f_2619154391683636650.mp3"
+                    ]
+                },
+                {
+                    "name":"Griffin Burns",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/03/21441b11de4cd121ef191c68c945048c_8430078983398606504.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/03/c66ab08623e5a6fe9311441dc84c7229_2328334834377959683.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/03/7abbffe887bd9bf51b0c2746b6a0428b_4376045330605999727.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Zhongli",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20201120/2020112022105267987.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20201123/2020112310503599073.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20201123/2020112310504363585.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20201120/2020112022111632589.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20201120/2020112022112676630.png",
+            "intro":"Wangsheng Funeral Parlor mysterious consultant. Handsome, elegant, and surpassingly learned.\nThough no one knows where Zhongli is from, he is a master of courtesy and rules. From his seat at Wangsheng Funeral Parlor, he performs all manner of rituals.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20201123/2020112310272624224.png",
+            "cv":[
+                {
+                    "name":"MAENO Tomoaki",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/20/177fd76054a08aa2d82b10497f45fba8_5402827144498701290.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/20/7cd956c25a12efd49b1501606767a2a0_3315085844112458227.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/20/323e90247f16bee161ad63825147f05f_4128634029187199722.mp3"
+                    ]
+                },
+                {
+                    "name":"Keith Silverstein",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/20/a04737bf671fb760893601dd0fe0d7ae_8124644661379877231.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/20/96be9b02bf5a005e1001d37a532e25e8_8128733674750089977.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/20/7d3ccd7a2c4bfd7dfde155d79cc01e4c_29798126012339686.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Xinyan",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20201125/2020112516015327993.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20201125/2020112516015894679.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20201125/2020112516125848571.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20201125/2020112516020529982.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20201125/2020112516202130032.png",
+            "intro":"Rock 'n' roll is an avant-garde art in Liyue Harbor and Xinyan is the pioneer in this field.\nShe rebels against ossified prejudices, using her music and passionate singing to awaken dazed souls fatigued by worldly matters.\nIf you get the chance, do not miss out on her next performance!",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20201125/2020112516113241564.png",
+            "cv":[
+                {
+                    "name":"TAKAHASHI Chiaki",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/25/f5ebdc3aa2852da587147600ddf6fa57_9057008431620929245.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/25/3a443d837b1c5437f0804fa33bc3d529_4769776534686394931.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/25/9cd02801fe0e3ec1abf119a79706772d_4139403601602593000.mp3"
+                    ]
+                },
+                {
+                    "name":"Laura Stahl",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/25/e601409b4ca5b0a83a2bda8b50d99006_297764230700316061.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/25/422a7462542a7841ef1c8e8830104a05_3489385972940452488.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2020/11/25/e29f64f7f1c6772b688f31dfb696400c_6606444186090570387.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Ganyu",
+            "icon":"https://uploadstatic-sea.mihoyo.com/contentweb/20201231/2020123114302212435.png",
+            "cover1":"https://uploadstatic-sea.mihoyo.com/contentweb/20210105/2021010519275372324.png",
+            "cover2":"https://uploadstatic-sea.mihoyo.com/contentweb/20210105/2021010519280045054.png",
+            "name":"https://uploadstatic-sea.mihoyo.com/contentweb/20201231/2020123114334115647.png",
+            "attr":"https://uploadstatic-sea.mihoyo.com/contentweb/20201231/2020123114334627800.png",
+            "intro":"The secretary to the Liyue Qixing. The blood of both human and illuminated beast flows within her veins.\nGraceful and quiet by nature, yet the gentle disposition of qilin sees not even the slightest conflict with even the most arduous of workloads.\nAfter all, Ganyu firmly believes that all the work she does is in honor of her contract with Rex Lapis, seeking the well-being of all living things within Liyue.",
+            "sen":"https://uploadstatic-sea.mihoyo.com/contentweb/20201231/2020123114351596133.png",
+            "cv":[
+                {
+                    "name":"UEDA Reina",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2021/01/04/3f86a0d295717787bc667f8c9bdf08fb_1803119177844401844.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2021/01/04/b7bd3819c135641ce88b52a26128adcf_4918846948964264377.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2021/01/04/6a5aad7cd92096bb5aa0894aff1a25f4_6082060961233619636.mp3"
+                    ]
+                },
+                {
+                    "name":"Jennifer Losi",
+                    "audio":[
+                        "https://webstatic.mihoyo.com/upload/op-public/2021/01/04/30d801f048bc85aaac13fd5fa2d19a8a_3546177706475893027.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2021/01/04/a5b7284e02a377316b7a54549caafa4c_6362535439554834783.mp3",
+                        "https://webstatic.mihoyo.com/upload/op-public/2021/01/04/2efaff210708a420ca0a611e90982e8d_9150753028495926514.mp3"
+                    ]
+                }
+            ]
+        }
+    ]
+}
